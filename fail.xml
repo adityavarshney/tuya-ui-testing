@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,844]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,844]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,844]">
+        <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,844]">
+          <node index="0" text="" resource-id="com.tuya.smartlife:id/ll_title" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,730]">
+            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,548][680,730]">
+              <node index="0" text="" resource-id="com.tuya.smartlife:id/ll_head" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[80,568][640,709]">
+                <node index="0" text="Invitation invalid. Please contact inviter." resource-id="com.tuya.smartlife:id/tv_title" class="android.widget.TextView" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[80,608][640,689]"/>
+              </node>
+            </node>
+          </node>
+          <node index="1" text="" resource-id="com.tuya.smartlife:id/ll_footer" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,730][680,844]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,730][680,844]">
+              <node index="0" text="" resource-id="com.tuya.smartlife:id/divider" class="android.view.View" package="com.tuya.smartlife" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,730][680,732]"/>
+              <node index="1" text="Got It" resource-id="com.tuya.smartlife:id/tv" class="android.widget.TextView" package="com.tuya.smartlife" content-desc="dialog_confirm" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[40,732][680,844]"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>
